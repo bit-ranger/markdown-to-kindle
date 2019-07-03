@@ -15,3 +15,7 @@ markdown-to-kindle.exe path-of-your-md-folder name-of-mobi
 ```
 
 then the mobi will be generated in path-of-your-md-folder
+
+## notice
+
+name-of-mobi can not has the same name of the file in the folder
