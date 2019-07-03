@@ -2,7 +2,7 @@
 
 convert a folder to mobi, include all markdown contents
 
-## example
+## usage
 
 unzip markdown-to-kindle.zip
 
