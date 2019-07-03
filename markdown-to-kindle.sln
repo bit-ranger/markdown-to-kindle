@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "markdown-to-kindle", "markdown-to-kindle\markdown-to-kindle.vcxproj", "{0747D217-4929-4A61-B291-26EC34F51623}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0747D217-4929-4A61-B291-26EC34F51623}.Debug|x64.ActiveCfg = Debug|x64
+		{0747D217-4929-4A61-B291-26EC34F51623}.Debug|x64.Build.0 = Debug|x64
+		{0747D217-4929-4A61-B291-26EC34F51623}.Debug|x86.ActiveCfg = Debug|Win32
+		{0747D217-4929-4A61-B291-26EC34F51623}.Debug|x86.Build.0 = Debug|Win32
+		{0747D217-4929-4A61-B291-26EC34F51623}.Release|x64.ActiveCfg = Release|x64
+		{0747D217-4929-4A61-B291-26EC34F51623}.Release|x64.Build.0 = Release|x64
+		{0747D217-4929-4A61-B291-26EC34F51623}.Release|x86.ActiveCfg = Release|Win32
+		{0747D217-4929-4A61-B291-26EC34F51623}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55EE3061-7D17-435F-92F4-78C5C461621C}
+	EndGlobalSection
+EndGlobal
