@@ -1,4 +1,4 @@
-# send markdown to kindle
+# markdown to kindle
 
 convert a folder to mobi, include all markdown contents
 
