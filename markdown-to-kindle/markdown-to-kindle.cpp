@@ -44,7 +44,7 @@ int main(int argc, char* argv[])
 {
 	const string targetDir = string(argv[1]);
 	const string targetName = string(argv[2]);
-	string srcPathMerged = targetDir + "\\" + targetName + ".md";
+	string srcPathMerged = targetDir + "\\" + targetName + ".merged.md";
 	ofstream srcFileMerged(srcPathMerged, ios::ate | ios::binary);
 
 	for (const auto& entry : filesystem::directory_iterator(targetDir))
@@ -70,7 +70,7 @@ int main(int argc, char* argv[])
 	}
 	srcFileMerged.close();
 
-	string genPathMerged = targetDir + argv[2] + ".html.tmp";
+	string genPathMerged = targetDir + "\\" + targetName + ".tmp.html";
 	system(("bin\\pandoc.exe -s -f gfm -t html --toc  -o " + genPathMerged + " " + srcPathMerged).c_str());
 
 	ifstream genFileMerged(genPathMerged, ios::ate | ios::binary);
