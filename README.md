@@ -1,3 +1,5 @@
+![GitHub All Releases](https://img.shields.io/github/downloads/bit-ranger/markdown-to-kindle/total.svg)
+
 # markdown to kindle
 
 convert a directory to mobi, include all markdown contents
