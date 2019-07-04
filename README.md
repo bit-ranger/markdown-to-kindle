@@ -19,7 +19,7 @@ markdown-to-kindle.exe  path-of-your-markdown-directory  name-of-book
 example
 
 ``` cmd
-markdown-to-kindle.exe  D:\Doc\MyRepo\hands-on-ml-zh\docs  Hands-On_Machine_Learning_with_Scikit-Learn_and_TensorFlow
+markdown-to-kindle.exe  D:\Doc\MyRepo\hands-on-ml-zh\docs  Hands-On_Sklearn_and_TensorFlow
 ```
 
 Then the mobi will appear in `path-of-your-markdown-directory`
