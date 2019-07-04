@@ -1,4 +1,4 @@
-![GitHub All Releases](https://img.shields.io/github/downloads/bit-ranger/markdown-to-kindle/total.svg)
+[![GitHub All Releases](https://img.shields.io/github/downloads/bit-ranger/markdown-to-kindle/total.svg)](https://github.com/bit-ranger/markdown-to-kindle/releases/latest)
 
 # markdown to kindle
 
